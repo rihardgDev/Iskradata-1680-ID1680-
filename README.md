@@ -4,7 +4,10 @@ Iskradata 1680 a computer from Iskra Delta
 Processor Motorola 6800  
 48 kB RAM   
 16 kB ROM   
-Modularna built
+Modular built
+
+![Iskradata 1680](https://github.com/rihardgDev/Iskradata-1680-ID1680-/blob/main/1680.jpg)
+
 
 Sources:  
 https://jurem.github.io/SloRaDe/racunalniki/iskradata-1680/  
