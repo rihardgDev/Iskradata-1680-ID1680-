@@ -18,3 +18,4 @@ https://books.google.si/books/about/BSC_protokol_za_povezavo_ra%C4%8Dunalnikov_I
 https://books.google.si/books/about/Sprotno_vodenje_procesov_z_mikrora%C4%8Dunal.html?id=2OmGzQEACAAJ&redir_esc=y  
 https://www.worldcat.org/title/922880114  
 https://www.s5tech.net/viewtopic.php?f=99&t=8014  
+https://www.racunalniski-muzej.si/domaca-proizvodnja-4-del-iskra-racunalniki-do-1981/  
